@@ -1,11 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Players from './components/Players';
 
 function App() {
   return (
-    <Players />
+    <div className="App">
+      <h1>Women's World Cup</h1>
+        <Players />
+    </div>
   );
 }
 
