@@ -1,6 +1,6 @@
 - [x] Why would you use class component over function components (removing hooks from the question)?
 
-Class components helps make the same function written in an easier way over function components. 
+Class components helps make the same function written in an easier way over function components and builds over previous components as well. 
 
 - [x] Name three lifecycle methods and their purposes.
 
